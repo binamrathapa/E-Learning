@@ -1,1 +1,14 @@
-this is test file
+this is test filWhat is architectureal? Explain layered model of software architectureal with example
+What are the objectives of software design? Explain
+What are the Software Design Concepts.
+What are the Design Phases. Explain 
+Explain about Quality attributes of software design.
+Define Architecture. Write the advantages of it. Explain about the its processes and attributes.
+Define modularity and functional independence. How can you achieve the functional independence?
+Explain about coupling and cohesion. Write advantages of coupling and cohesion.
+Define Refinement and refactoring
+Define information hiding. How can you achieve information hiding?
+Explain about Client-server architecture and repository model. write the advantages of them.
+Explain about Modular decomposition and object model .
+Define UI and UX.
+Explain about HCIe
